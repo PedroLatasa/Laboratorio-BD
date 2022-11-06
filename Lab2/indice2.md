@@ -5,5 +5,5 @@
 * Diagrama 4: Criptomonedas
 * Diagrama 5: Escuderías FIA
 * Diagrama 6: Formación in-company
-* Diagrama 7: Gestión de banco
-* Diagrama 8: Conflictos bélicos
+* Diagrama 7: Conflictos bélicos
+* Diagrama 8: Gestión de banco
