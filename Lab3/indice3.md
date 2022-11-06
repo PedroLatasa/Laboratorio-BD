@@ -5,5 +5,5 @@
 * Diagrama 4: Criptomonedas_rel
 * Diagrama 5: Escuderías FIA_rel
 * Diagrama 6: Formación in-company_rel
-* Diagrama 7: Gestión de banco_rel
-* Diagrama 8: Conflictos bélicos_rel
+* Diagrama 7: Conflictos bélicos_rel
+* Diagrama 8: Gestión de banco_rel
